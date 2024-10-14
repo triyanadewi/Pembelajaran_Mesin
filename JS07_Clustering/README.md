@@ -1,5 +1,4 @@
-# Jobsheet 7
-**Clustering** <br>
+# Jobsheet 7 - Clustering
 Melakukan proses klasterisasi dengan menggunakan metode K-Means dan Self-organizing Map (SOM)
 
 ## Identitas Mahasiswa
