@@ -1,4 +1,4 @@
-# Job Sheet 9 - Perceptron dan ANN
+# Job Sheet 8 - Perceptron dan ANN
 - Perceptron
 - Artificial Neural Network (ANN)
 
